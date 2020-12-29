@@ -8,7 +8,7 @@ Pushing backups was the only option. For that, I built this shell script, which 
 
 :exclamation: As a firmware update resets the changes, you have to manually run the script once after every firmware upgrade.
 
-> If you have a Unified Dream Machine, have a look at my FTP backup for Ubiquiti Dream Machine using a Docker container. [aessing/udm-backup-ftp](https://github.com/aessing/udm-backup-ftp) 
+> If you have a Unifi Dream Machine, have a look at my FTP backup for Ubiquiti Unifi Dream Machine using a Docker container. [aessing/udm-backup-ftp](https://github.com/aessing/udm-backup-ftp) 
 
 ## Steps to get up and running
 
