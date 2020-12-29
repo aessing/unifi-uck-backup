@@ -1,6 +1,6 @@
 # Ubiquiti Unifi Cloud Key Gen 2 Backup to FTP
 
-![Picture of a Ubiquiti Unifi Cloud Key Gen 2 Plus](.media/UCK-G2-PLUS.png)
+![Picture of a Ubiquiti Unifi Cloud Key Gen 2 Plus](docs/images/uckg2plus-640x480.png)
 
 With the latest Firmware Update (>2.0) of the Ubiquiti Cloud Key Generation 2, Ubiquiti stopped using the SD-Card as backup location for automatic backups. Otherwise the new firmware release is doing backups to the local HDD (at Cloud Key Gen 2 Plus), which is harder to access on a hardware error or a general failure.
 
